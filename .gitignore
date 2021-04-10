@@ -1,0 +1,9 @@
+/build/intermediates/lint-cache/
+/app/build/
+/.gradle/
+/.idea/libraries/
+/.idea/caches/
+/.idea/modules/app/
+/.idea/assetWizardSettings.xml
+
+/local.properties

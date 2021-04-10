@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+	<item android:checkable="true"
+		android:visible="true"
+		android:checked="false"
+		android:enabled="true"
+		android:title="@string/reminders_menu"
+		android:titleCondensed="@string/reminders_menu"
+		app:showAsAction="always"
+		android:icon="@drawable/ic_service_off"
+		android:id="@+id/startStopService"/>
+
+	<item
+		android:id="@+id/menu_set_time"
+		android:icon="@drawable/ic_time"
+		android:title="@string/set_time_menu"
+		android:titleCondensed="@string/set_time_menu"
+		app:showAsAction="never" />
+	<item
+		android:id="@+id/passedBirthdays"
+		android:title="@string/show_previous"
+		app:showAsAction="never" />
+</menu>

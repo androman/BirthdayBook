@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Birthdays</string>
+	<string name="birthday_before">turned %1$d, %2$d days ago.</string>
+	<string name="birthday_yesterday">turned %1$d yesterday</string>
+	<string name="next_birthday_today">is %1$d today!</string>
+	<string name="next_birthday_tomorrow">turns %1$d tomorrow.</string>
+	<string name="next_birthday">turns %1$d in %2$d days.</string>
+	<string name="title_edit_birthday">Edit Birthday</string>
+	<string name="delete_birthday">Delete Birthday</string>
+	<string name="new_birthday">Add Birthday</string>
+	<string name="change_birthday">Change Birthday</string>
+	<string name="view_contact">View Contact</string>
+	<string name="confirm_delete_birthday">Do you really want to delete this birth date?</string>
+	<string name="button_ok">OK</string>
+	<string name="button_cancel">Cancel</string>
+	<string name="reminders_menu">Reminders</string>
+	<string name="set_time_menu">Set Reminder Time</string>
+	<string name="birthday_notification">Birthday notification</string>
+	<string name="birthday_notification_text">%1$s is %2$d today!</string>
+    <string name="channel_name">Birthdays</string>
+	<string name="channel_description">Contacts birthday notification</string>
+    <string name="not_activated">Birthday reminder service inactive.</string>
+	<string name="activated">Birthday reminder service active.</string>
+    <string name="boot_ticker">System reboot</string>
+	<string name="show_previous">Passed birthdays</string>
+    <string name="show_passed_dialogs_for">How many days shall passed birthdays be shown for?</string>
+</resources>

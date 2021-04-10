@@ -1,0 +1,22 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/secondaryColor</item>
+
+    </style>
+
+    <!-- Style for the application toolbar/actionbar -->
+    <style name="ToolbarTheme" parent="AppTheme">
+        <!-- sets the color of the overflow menu -->
+        <item name="android:textColorPrimary">@color/primaryTextColor</item>
+        <item name="android:textColorSecondary">@color/primaryTextColor</item>
+        <item name="android:background">@color/primaryColor</item>
+
+        <!-- colors for the popup menu -->
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:buttonTint">@color/primaryTextColor</item>
+    </style>
+</resources>
